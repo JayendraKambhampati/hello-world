@@ -1,8 +1,10 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Register for the account and give the details</h1>
+    <h2>Congrats you are eligible to register<h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
+
 
  <label for="name"><b>name</b></label>
     <input type="text" placeholder="Enter name" name="name" id="name" required>
