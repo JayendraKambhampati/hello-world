@@ -3,6 +3,7 @@
     <h1>Register for the account and give the details</h1>
     <h2>Congrats you are eligible to register</h2>
     <h3>Please wait for the confirmation mail after registering</h3>
+    <h4>Check the mail for the confirmation</h4>
     <p>Please fill in this form to create an account.</p>
     <hr>
 
